@@ -98,6 +98,7 @@ setTimeout(function async() {
 
 HTML
 CSS
+*Delayed*
 Javascript
 React
 
